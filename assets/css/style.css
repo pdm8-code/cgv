@@ -520,7 +520,7 @@
 }
 
 .video-wrap .container .video-content .video-controls button.sound-btn {
-  background: url(../img/soundoff.png) no-repeat center / 18px;
+  background: url(../img/soundOff.png) no-repeat center / 18px;
 }
 
 .video-wrap .container .video-content .video-controls button.sound-btn.active {
